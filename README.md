@@ -3,8 +3,11 @@
 
 Key Features:
  •Real-time misinformation detection and flagging.
+ 
  •Transparent, immutable fact-check logs using blockchain.
+ 
  •Community-driven verification for enhanced accuracy.
+ 
  •Emotion-based analytics to identify sensationalism and manipulation
 
  Who Benefits from TrustPulse?
